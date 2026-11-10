@@ -1,0 +1,11 @@
+{
+  "name": "BUDDY CARE",
+  "description": "A calm, compassionate companion providing a safe space with AI Avatar Friends, guided breathing, and mental health resources.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
